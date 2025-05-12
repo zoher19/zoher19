@@ -11,5 +11,4 @@ I’m a Software Engineer and Mobile App Developer, passionate about building in
 - 📫 How to reach me:
 
   [!["LinkedIn"](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/tarekalabd/)
-  [!["YouTube"](https://img.shields.io/youtube/channel/subscribers/UCMQeTJFwpvbeXjLPrd9_eQw?label=TarekAlabd&style=social)](https://www.youtube.com/@Professor-b4i)
-  [!["I"](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@tarekalabd)
+  [!["YouTube"](https://img.shields.io/youtube/channel/subscribers/UCMQeTJFwpvbeXjLPrd9_eQw?label=Professor&style=social)](https://www.youtube.com/@Professor-b4i)
