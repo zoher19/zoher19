@@ -11,4 +11,3 @@ I’m a Software Engineer and Mobile App Developer, passionate about building in
 - 📫 How to reach me:
 
   [!["LinkedIn"](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/zuhair-alhlak-065914341?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-  [!["YouTube"](https://img.shields.io/youtube/channel/UCMQeTJFwpvbeXjLPrd9_eQw?label=Professor&style=social)](https://www.youtube.com/@Professor-b4i)
