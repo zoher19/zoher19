@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m a Software Engineer and Mobile App Developer, passionate about building innovative software solutions. I also run an educational page where I share programming knowledge and help others grow their tech skills[zoher19_](https://www.instagram.com/zoher19_?igsh=MXJrdGE2OXR0dWNpag==)
+I’m a Software Engineer and Full Stack Web Developer, passionate about building innovative software solutions. I also run an educational page where I share programming knowledge and help others grow their tech skills[zoher19_](https://www.instagram.com/zoher19_?igsh=MXJrdGE2OXR0dWNpag==)
 
 
 
